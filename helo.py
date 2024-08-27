@@ -1,0 +1,1 @@
+print('helo nhung em be hieu hoc')
